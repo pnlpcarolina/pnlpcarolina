@@ -1,5 +1,5 @@
 
-<h3 align="left"> Oii hello hola 你好 👋 </h3>  I'm a Motion and Graphic Designer, migrating to Front-end development and UX design.
+<h3 align="left"> Oii hello hola やあ 👋 </h3>  I'm a Motion and Graphic Designer, migrating to Front-end development and UX design.
 
 
 #
