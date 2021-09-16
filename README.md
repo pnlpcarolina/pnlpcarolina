@@ -37,6 +37,8 @@
 </div>
 
 #
+
+<div align="center">
 <img src='https://random-memer.herokuapp.com/'  width="50%" title="Random Meme" alt="Please refresh the page if the meme doesn't show up.">
-</html>
+</div>
  
