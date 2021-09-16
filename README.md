@@ -26,12 +26,7 @@
  
 </div> 
  
- 
- #### Coisas para fazer
 
-<!-- TODO-IST:START -->
-<!-- TODO-IST:END -->
- 
 </div>
 
 </div>
