@@ -2,10 +2,8 @@
 ### Oii 👋 
 
 
-🐱‍👓 Motion Designer / Grapich Designer
-🌱 I’m currently learning ...
-
-
+- 🐱‍👓 Motion Designer / Grapich Designer
+- 🌱 I'm studying UI design, HTML5, CSS, JS and Python. 
 
 
 <div>
@@ -14,27 +12,22 @@
 </div>
 
 <div>
-  <a href="https://github.com/pnlpcarolina">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pnlpcarolina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  
-
-                                                    
-      
-</div>
+  <a href="https://github.com/pnlpcarolina"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pnlpcarolina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   </div>
+ 
+ 
 <div>
            <a href="https://www.linkedin.com/in/pnlpcarolina/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
  
-    
-</div>
-
-</div>
-
-# Todoist Stats
+  
+ #### Coisas para fazer
 
 <!-- TODO-IST:START -->
-🏆  100 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 0 tasks so far           
-⏳  Longest streak is 0 days
-<!-- TODO-IST:END -->
+ 
+<!-- TODO-IST:END --
+ 
+</div>
+
+</div>
+
