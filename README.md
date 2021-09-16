@@ -22,9 +22,11 @@
 </div>
 
 #
+
+<div align="center">
+  
 ### Connect me 💕
 
-<div align="left">
   
  
  <a href='https://www.linkedin.com/in/pnlpcarolina/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=70a5fd&labelColor=1a1b27&color=1a1b27'/></a>
@@ -36,7 +38,7 @@
  
 </div>
 
-#
+
 
 <div align="center">
 <img src='https://random-memer.herokuapp.com/'  width="50%" title="Random Meme" alt="Please refresh the page if the meme doesn't show up.">
