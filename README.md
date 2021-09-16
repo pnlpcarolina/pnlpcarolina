@@ -1,33 +1,39 @@
 
-### Oii 👋 
+<h3 align="left"> Oii 👋  </h3>  
 
 
-- 🐱‍👓 Motion Designer / Grapich Designer
-- 🌱 I'm studying UI design, HTML5, CSS, JS and Python. 
+
+#### BIO 🐱‍🚀
+- 👓 I live in :brazil:
+- :world_map: I'm Geography Student
+- 👀 I'm self-taught student of `UI Design`, `html`, `css` and `Python` 
+- :gemini: Sun :taurus: Asc :cancer: Moon :aries: Venus
+- 🐙 Dota 2 Player
+- 🤞 Ela/dela (She/her), you can call me Carol! 
 
 
-<div>
- <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+#### MY SKILLS
+<img src="https://cdn.icon-icons.com/icons2/17/PNG/256/AdobeAfterEffects_AfterEffects_2202.png" width="40" height="40" alt="After Effects" width-max="100%"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="40" height="40" alt="Photoshop">
 
-<div>
-  <a href="https://github.com/pnlpcarolina"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pnlpcarolina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   </div>
- 
- 
-<div>
-           <a href="https://www.linkedin.com/in/pnlpcarolina/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
- 
+<div align="left">
+
   
+ <a href="https://github.com/pnlpcarolina"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pnlpcarolina&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
+ 
+ <a href='https://www.linkedin.com/in/pnlpcarolina/' target="_blank"><img alt='LinkedIn' src='https://img.shields.io/badge/LinkedIn-100000?style=for-the-badge&logo=LinkedIn&logoColor=70a5fd&labelColor=1a1b27&color=1a1b27'/></a>
+<a href='http://instagram.com/pnlpcarolina' target="_blank"><img alt='Instagram' src='https://img.shields.io/badge/Instagram-100000?style=for-the-badge&logo=Instagram&logoColor=bf91f3&labelColor=1a1b27&color=1a1b27'/></a>
+ <a href='http://instagram.com/pnlpcarolina' target="_blank"><img alt='Behance' src='https://img.shields.io/badge/Behance-100000?style=for-the-badge&logo=Behance&logoColor=38bdae&labelColor=1a1b27&color=1a1b27'/></a>
+ 
+</div> 
+ 
+ 
  #### Coisas para fazer
 
 <!-- TODO-IST:START -->
- 
-<!-- TODO-IST:END --
+<!-- TODO-IST:END -->
  
 </div>
 
 </div>
+<img src='https://random-memer.herokuapp.com/'  width="50%" title="Random Meme" alt="Please refresh the page if the meme doesn't show up.">
 
