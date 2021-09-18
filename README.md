@@ -1,7 +1,7 @@
 
 <div align="right">
 
-<h2> Oii hello hola やあ 👋 </h2>  I'm a Motion and Graphic Designer, migrating to Front-end development and UX design.
+<h2> Oii hello hola やあ 👋 </h2>  I'm a Motion and Graphic Designer, upgrading to UX design.
 
 </div>
 
